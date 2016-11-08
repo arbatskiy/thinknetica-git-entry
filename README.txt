@@ -2,4 +2,4 @@ knock knock
 who's there?
 git
 git who?
-git your hands dirty with git
+git me some food you mother fucker
